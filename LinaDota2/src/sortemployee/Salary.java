@@ -1,6 +1,5 @@
 package sortemployee;
 
-
 public class Salary {
     public static int getRandomSalary()
     {
